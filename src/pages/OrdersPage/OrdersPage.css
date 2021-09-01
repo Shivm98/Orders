@@ -1,0 +1,8 @@
+thead th {
+    text-transform: capitalize;
+}
+
+.main{
+    /* overflow: scroll; */
+    width: 100%;
+}
